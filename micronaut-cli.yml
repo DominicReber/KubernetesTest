@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: glue.ch
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jdbc, gradle, http-client, jackson-databind, java, java-application, jdbc-hikari, jib, junit, kubernetes, kubernetes-client, kubernetes-informer, logback, management, micronaut-build, mysql, netty-server, properties, readme, shade, spring, spring-boot, spring-data-jdbc, spring-web, testcontainers, views-thymeleaf]
